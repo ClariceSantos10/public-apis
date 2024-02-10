@@ -19,7 +19,7 @@ scripts
 ## Install dependencies
 
 You must have [python](https://www.python.org/) installed to use these scripts.
-
+musica favorita
 it is also necessary to install the validation package dependencies, use [pip package manager](https://pypi.org/project/pip/) for this:
 
 ```bash
